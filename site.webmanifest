@@ -1,0 +1,16 @@
+{
+  "name": "Banana — Official Flagship Store",
+  "short_name": "Banana",
+  "description": "Discover the world of Banana: BanPhone 16 Pro, BanBook Air M4, BanPad Pro, BanWatch Series 10, and BanVision Pro. Engineered by Tamojit Roy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
